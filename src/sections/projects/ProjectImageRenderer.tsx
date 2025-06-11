@@ -43,7 +43,7 @@ const ProjectImageRenderer = ({ images, direction = "right" }: Props) => {
       <Parallax translateX={translateX}>
         <div className="relative w-[300px] h-[150px] lg:w-[700px] lg:h-[450px]">
           <img
-            src={`src/assets/img/projects/${currImage?.img}`}
+            src={`/img/projects/${currImage?.img}`}
             alt={currImage?.title}
             draggable={false}
             className="absolute transition-opacity duration-300"
@@ -59,7 +59,7 @@ const ProjectImageRenderer = ({ images, direction = "right" }: Props) => {
           />
 
           <img
-            src="src/assets/img/laptop.png"
+            src="/img/laptop.png"
             draggable={false}
             className="absolute top-0 left-0 w-[300px] h-[150px] lg:w-[700px] lg:h-[450px]"
             style={{
@@ -74,12 +74,12 @@ const ProjectImageRenderer = ({ images, direction = "right" }: Props) => {
           {images.map((img) => (
             <img
               key={img.img}
-              src={`src/assets/img/projects/${img.img}`}
+              src={`/img/projects/${img.img}`}
               alt={img.title}
               title={img.title}
               draggable={false}
               onClick={() => changeImage(img)}
-              className={`h-12 w-18 object-cover cursor-pointer border-2 rounded-sm transition-all ${
+              className={`h-12 w-18 object-cover cursor-pointer border-2 rounded-sm transition-all duration-500 ${
                 currImage?.img === img.img
                   ? "border-black-500 shadow-xl/30 h-12 w-22"
                   : "border-gray-300"

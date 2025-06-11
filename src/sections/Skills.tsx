@@ -9,14 +9,14 @@ export default function Skills() {
     { label: "NodeJS", image: "nodejs.png" },
     { label: "ReactJS", image: "react.png" },
     { label: "CSS", image: "css.png" },
-    { label: "BootStrap", image: "BootStrap.png" },
-    { label: "SemanticUI", image: "SemanticUI.png" },
+    { label: "BootStrap", image: "bootstrap.png" },
+    { label: "SemanticUI", image: "semanticui.png" },
     { label: "Less", image: "less.png" },
     { label: "Sass", image: "sass.png" },
     { label: "Material UI", image: "matui.png" },
     { label: "Wordpress", image: "wordpress.png" },
     { label: "PHP", image: "php.png" },
-    { label: "AJAX", image: "AJAX.png" },
+    { label: "AJAX", image: "ajax.png" },
     { label: "Figma", image: "figma.png" },
     { label: "MySQL", image: "mysql.jpg" },
     { label: "MongoDB", image: "mongodb.jpg" },
@@ -34,7 +34,7 @@ export default function Skills() {
             <Parallax scale={[0.1, 1, "easeOutBack"]}>
               <img
                 alt={skill?.label}
-                src={`src/assets/img/skills/${skill?.image}`}
+                src={`/img/skills/${skill?.image}`}
                 className="rounded-full transform transition-transform duration-800 hover:scale-110 cursor-pointer"
                 style={{ width: "100px", height: "100px" }}
                 draggable={false}
