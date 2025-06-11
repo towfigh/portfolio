@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "from": "Dec 2024",
+    "to": "Present",
+    "role": "Frontend Developer",
+    "company": "The Lifeguard Company (TLC)",
+    "points": [
+      {
+        "id": 1,
+        "title": "Dashboard Development",
+        "description": "Collaborated with a cross-functional team to build a full-featured dashboard for managing hiring, scheduling, and contracts, streamlining the delivery of lifeguard services in Canada."
+      },
+      {
+        "id": 2,
+        "title": "Staffing, Contracts & Payroll",
+        "description": "Developed modules for staff onboarding, digital contract management, and shift scheduling, along with regions, and integrated financial features to track work hours."
+      },
+      {
+        "id": 3,
+        "title": "Modern Tech Stack",
+        "description": "Built using React, TypeScript, Vite, Ant Design, and SASS, with Axios for secure, real-time communication with backend services."
+      },
+      {
+        "id": 4,
+        "title": "Testing & DevOps",
+        "description": "Employed Vitest for unit testing and used Docker for containerized development and deployment workflows."
+      },
+      {
+        "id": 5,
+        "title": "Documentation",
+        "description": "Maintained comprehensive and clear documentation to support ongoing development."
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "title": "Login Process with OTP Handling",
+        "img": "tlc-1.png"
+      },
+      {
+        "id": 2,
+        "title": "Lifeguard Schedule Management",
+        "img": "tlc-2.png"
+      },
+      {
+        "id": 3,
+        "title": "Contract Creation Workflow",
+        "img": "tlc-3.png"
+      },
+      {
+        "id": 4,
+        "title": "Recruitment Process Steps",
+        "img": "tlc-4.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "from": "Jun 2023",
+    "to": "Present",
+    "role": "React Developer",
+    "company": "PoolPal™",
+    "points": [
+      {
+        "id": 1,
+        "title": "Platform Development",
+        "description": "Led the development of a Pool Administrator Dashboard, crafting a responsive and intuitive interface using React, Ant Design, and Bootstrap, ensuring a seamless user experience for administrators and customers."
+      },
+      {
+        "id": 2,
+        "title": "Real-Time Monitoring",
+        "description": "Integrated IoT capabilities into the dashboard for real-time pool monitoring, enabling dynamic data visualization and timely updates."
+      },
+      {
+        "id": 3,
+        "title": "API Integration",
+        "description": "Efficiently integrated RESTful APIs to synchronize real-time data, ensuring accurate and up-to-date information on pool conditions."
+      },
+      {
+        "id": 4,
+        "title": "Collaboration",
+        "description": "Worked closely with cross-functional teams using GitLab, contributing to project management and feature development from conception to deployment."
+      },
+      {
+        "id": 5,
+        "title": "Responsive Design",
+        "description": "Leveraged Bootstrap to implement a responsive design, significantly enhancing user experience and accelerating development timelines."
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "title": "Real-Time Pool Monitoring Dashboard",
+        "img": "poolpal-1.png"
+      },
+      {
+        "id": 2,
+        "title": "Visual Presence Tracking in Pool Zones",
+        "img": "poolpal-2.png"
+      },
+      {
+        "id": 3,
+        "title": "Long-Term Data Visualization",
+        "img": "poolpal-3.png"
+      },
+      {
+        "id": 4,
+        "title": "Admin Dashboard: Event Monitoring",
+        "img": "poolpal-4.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "from": "Jan 2023",
+    "to": "Present",
+    "role": "Frontend Developer",
+    "company": "Superior Pool CRM",
+    "points": [
+      {
+        "id": 1,
+        "title": "Frontend Development",
+        "description": "Led the creation of a sophisticated CRM dashboard tailored for customer and order management in the pool services sector, ensuring a fast, responsive, and user-friendly interface using React."
+      },
+      {
+        "id": 2,
+        "title": "State Management",
+        "description": "Integrated Redux, redux-persist, and React Query to streamline data handling, ensure persistence, and keep the application state consistently synchronized with backend data."
+      },
+      {
+        "id": 3,
+        "title": "Custom Components",
+        "description": "Built a suite of reusable UI components—including a two-level depth custom tab system—to enhance navigation, consistency, and maintainability across the CRM interface."
+      },
+      {
+        "id": 4,
+        "title": "Maintainable Codebase",
+        "description": "Ensured consistency and maintainability of the codebase by implementing modularized SASS, facilitating easier updates and scalability."
+      },
+      {
+        "id": 5,
+        "title": "User Feedback & Testing",
+        "description": "Actively participated in user testing sessions, gathering feedback to refine the user interface and enhance data accuracy, contributing to a more robust and user-friendly product."
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "title": "Login Page",
+        "img": "crm-1.png"
+      },
+      {
+        "id": 2,
+        "title": "Organizing Service Appointment Timelines",
+        "img": "crm-2.png"
+      },
+      {
+        "id": 3,
+        "title": "Built-In Communication Platform",
+        "img": "crm-3.png"
+      },
+      {
+        "id": 4,
+        "title": "Nested Tabs with Persistent State",
+        "img": "crm-4.png"
+      },
+      {
+        "id": 5,
+        "title": "Dedicated Admin Dashboard",
+        "img": "crm-5.png"
+      },
+      {
+        "id": 6,
+        "title": "Modular Application Architecture",
+        "img": "crm-6.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "from": "Sep 2022",
+    "to": "Dec 2022",
+    "role": "Full Stack Developer",
+    "company": "Naroneymeson",
+    "points": [
+      {
+        "id": 1,
+        "title": "Frontend Development",
+        "description": "Designed and developed a dynamic website from scratch for showcasing women's dresses, utilizing React, Redux, and redux-persist to create a responsive and interactive user interface."
+      },
+      {
+        "id": 2,
+        "title": "Backend Development",
+        "description": "Developed robust backend functionality using PHP and MySQL with phpMyAdmin, including API development and data storage."
+      },
+      {
+        "id": 3,
+        "title": "UI/UX Design",
+        "description": "Crafted the user interface and experience using Figma, ensuring a cohesive and user-friendly design."
+      },
+      {
+        "id": 4,
+        "title": "Advanced Features",
+        "description": "Implemented advanced functionality, including sorting dresses by popularity and showing related items to enhance user experience and engagement."
+      },
+      {
+        "id": 5,
+        "title": "Styling & Design",
+        "description": "Employed Bootstrap and SASS to ensure a visually appealing and maintainable design, aligning with modern web aesthetics and usability standards."
+      },
+      {
+        "id": 6,
+        "title": "Admin Dashboard",
+        "description": "Built a separate admin dashboard for efficient content management, enabling streamlined control over product listings and site functionality."
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "title": "Landing Page",
+        "img": "naroney-1.png"
+      },
+      {
+        "id": 2,
+        "title": "List of Products",
+        "img": "naroney-2.png"
+      },
+      {
+        "id": 3,
+        "title": "Admin Login Portal",
+        "img": "naroney-3.png"
+      },
+      {
+        "id": 4,
+        "title": "Exclusive Administrative Panel",
+        "img": "naroney-4.png"
+      },
+      {
+        "id": 5,
+        "title": "Individual Product Overview",
+        "img": "naroney-5.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "from": "Aug 2021",
+    "to": "Sep 2022",
+    "role": "Frontend Developer",
+    "company": "Financial Factory",
+    "points": [
+      {
+        "id": 1,
+        "title": "Dashboard Development",
+        "description": "Developed a sophisticated cryptocurrency financial dashboard, featuring a unique referral-based registration system to enhance user engagement and tracking."
+      },
+      {
+        "id": 2,
+        "title": "UI/UX Design",
+        "description": "Created an intuitive and responsive user interface using React, integrating financial tools seamlessly to provide a comprehensive and user-friendly experience."
+      },
+      {
+        "id": 3,
+        "title": "State Management",
+        "description": "Utilized Redux and redux-persist for efficient data handling and persistence, improving application speed and reliability."
+      },
+      {
+        "id": 4,
+        "title": "Responsive Design",
+        "description": "Implemented Bootstrap to design a visually compelling and user-friendly interface, facilitating rapid development and deployment."
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "title": "Login Page",
+        "img": "ff-1.png"
+      },
+      {
+        "id": 2,
+        "title": "Dashboard Overview",
+        "img": "ff-2.png"
+      },
+      {
+        "id": 3,
+        "title": "Referral Manager with Tree Chart Visualization",
+        "img": "ff-3.png"
+      },
+      {
+        "id": 4,
+        "title": "Data Visualization Using Gauges",
+        "img": "ff-4.png"
+      },
+      {
+        "id": 5,
+        "title": "Easy-to-Understand Plans Dashboard",
+        "img": "ff-5.png"
+      }
+    ]
+  }
+]

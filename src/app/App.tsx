@@ -1,6 +1,7 @@
 import Contact from "../sections/Contact";
 import Hero from "../sections/Hero";
-import Projects from "../sections/Projects";
+import Introduction from "../sections/Introduction";
+import Projects from "../sections/projects/Projects";
 import Skills from "../sections/Skills";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div>
       <Hero />
       <Skills />
+      <Introduction />
       <Projects />
       <Contact />
     </div>

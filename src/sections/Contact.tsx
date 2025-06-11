@@ -6,6 +6,7 @@ export default function Contact() {
       </h2>
       <p>Email: tofigh.nazari93@gmail.com</p>
       <p>GitHub: github.com/towfigh</p>
+      <p>GitLab: gitlab.com/towfigh</p>
     </section>
   );
 }
