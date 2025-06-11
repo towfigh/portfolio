@@ -45,7 +45,7 @@ export default function Projects() {
 
                   <ul
                     className="mt-4 list-none list-inside space-y-2 px-5"
-                    style={{ fontFamily: "Exo" }}
+                    // style={{ fontFamily: "Ubuntu" }}
                   >
                     {project.points.map((point) => (
                       <li key={point.id} className="leading-9">

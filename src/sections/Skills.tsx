@@ -40,9 +40,7 @@ export default function Skills() {
                 draggable={false}
               />
             </Parallax>
-            <p className="mt-3" style={{ fontFamily: "Exo" }}>
-              {skill?.label}
-            </p>
+            <p className="mt-3">{skill?.label}</p>
           </div>
         ))}
       </div>
